@@ -4,8 +4,8 @@ public class Rectangle {
 
     public static void main(String[] args) {
 
-        long Width = 30;
-        long Lenght = 20;
+        int Width = 30;
+        int Lenght = 20;
 
         System.out.println("Width = " + Width);
         System.out.println("Lenght = " + Lenght);
